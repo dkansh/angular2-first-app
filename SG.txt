@@ -1,2 +1,40 @@
-In the current module, I serve as the sole point of contact for SG Mumbai as well as the other clients. My main aim is to deliver the code with the utmost quality within the time and following the coding principles which makes our product more reliable and the best market fit. With this motto, I’m used to giving a peer-to-peer review to my leads and make sure the written codes are as per our industry standards. I’m the only developer for this module and always ready for challenges, in the past I had participated in POC’s for refactoring the existing code to use of latest tech versions of Java 8 and Maven. There are no productions issues recorded due to the code delivered by me other than the data corruption issues. Also fixed the security and sonar issues in all the releases at the earliest.
-Always bound to the scope and successfully implemented GitHub [SGINDIA] within the time frame and contributed in Swift Revamp, segregated the common code to make as a reusable code. Constantly delivered without any spillages making sure the functional testing if any fixed immediately with less than 5% effort.
+I’ve continually ensured the ouns of the IBOS application to support for the production and UAT testing efficiently and in a very smooth process. Continuously noted the logs and version changes in a shared folder without any ambiguity within the team. When required updated SOP at all the time. Maintained an issue tracker with the root cause analysis for easy understandings for other individuals. Hotfix tracker is updated constantly and communicated to the test team. I have got a very good relationship with the SG Mumbai team but not with the rest of the entities of IBOS due to the lack of contacts. Suggested the global issues to the reporting manager when something goes wrong, at most of the time with a solution.
+For both UAT and PROD KPI, I always respond immediately to the issues reported and the restoration time would be within the EOD or maximum to the next business day. The resolution time is not more than 2days.
+
+
+
+
+
+
+
+
+
+
+
+Whenever I had the spare time, I’ve attended several pluralsight trainings and successfully completed more than 5 courses. Currently, I’m pursuing Master of Computer Applications (MCA) and can be considered as a part of the certification program. I’m more than willing to give the PPT presentations to the team in the very near future.  Successfully completed a hackathon for providing solutions in SPARK project gave innovative ideas for integration on microservices and etc. for the best product deliverables.
+
+
+
+
+
+
+
+
+
+
+
+Actively attended all the scrum rituals without any fail and on time and was always responsive for other meetings.  Keenly participated in knowledge sharing sessions within the office. Helped the team members to solve the issues under my control. Informed and updated the leave tracker well in advance of the plans.
+
+Suggested to create an individual branch in GIT for a smooth process across the team
+
+
+
+
+
+
+
+
+
+
+
+I’m completely obliged with the terms and conditions of the company. If nominated, I’m always game for challenges if fact, I would more be more than happy to learn the new things and explore the other cultures and traditions.
